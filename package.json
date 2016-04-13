@@ -1,0 +1,16 @@
+{
+  "name": "eatsafecny bot",
+  "version": "1.0.0",
+  "description": "A simple bot for looking up restaurant inspection results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mark Headd <mheadd@mheadd.com> (http://civic.io/)",
+  "license": "CC0",
+  "dependencies": {
+    "botbuilder": "^0.8.0",
+    "restify": "^4.0.4"
+  }
+}
